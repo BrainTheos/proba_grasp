@@ -15,15 +15,15 @@ All the modules files are located in ihs-distributions/
 #### Linux macOS :
 
 ```bash
-python3 -m venv openvino_env
-source openvino_env/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 #### Windows :
 
 ```bash
-python -m venv openvino_env
-openvino_env\Scripts\activate
+python -m venv venv
+venv\Scripts\activate
 ```
 
 ### Step 2: 
